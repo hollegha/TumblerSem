@@ -1,0 +1,1 @@
+# seminar ohne SvVis
